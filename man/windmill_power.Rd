@@ -19,7 +19,7 @@ windmill_power(
 \arguments{
 \item{p}{is air density}
 
-\item{A}{is rotar swept area m^2}
+\item{A}{is rotor swept area m^2}
 
 \item{Cp}{is power coefficient}
 
